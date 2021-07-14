@@ -6,11 +6,11 @@
 }
 
 blockquote {
-  margin-left: 3em
+  margin-left: 3em;
 }
 
 figcaption {
-  margin-left: 3em
+  margin-left: 3em;
 }
 
 div#arvo-quote {
@@ -19,7 +19,7 @@ div#arvo-quote {
 
 h1 {
   text-align: center;
-  letter-spacing: 0.13em
+  letter-spacing: 0.13em;
 }
 
 h2 {
