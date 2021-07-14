@@ -5,3 +5,7 @@ blockquote {
 figcaption {
   margin-left: 3em
 }
+
+p {
+  text-align: center;
+}
