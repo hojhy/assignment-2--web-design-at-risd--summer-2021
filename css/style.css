@@ -42,3 +42,11 @@ p#credit{
 p#image{
   text-align: center;
 }
+
+.center {
+  text-align: center;
+  margin: auto;
+  width: 60%;
+  border: 5px;
+  padding: 10px;
+}
