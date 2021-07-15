@@ -54,3 +54,7 @@ p#image{
   border: 5px;
   padding: 10px;
 }
+
+q {
+  line-height: 1.4em;
+}
