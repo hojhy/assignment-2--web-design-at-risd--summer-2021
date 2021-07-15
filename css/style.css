@@ -21,6 +21,7 @@ div#arvo-quote {
 
 h1 {
   text-align: center;
+  margin: auto;
   letter-spacing: 0.13em;
   font-size: 2em;
 }
